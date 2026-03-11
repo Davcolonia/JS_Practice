@@ -18,3 +18,11 @@ for(let[i,test] of tests.entries()){
     console.log(i, test);
 }
 
+
+let studnets = ["jamal", "mike", 'matt', 'aj'];
+
+for (let student in students){
+    console.log(student, " -> ",students[student]);
+}
+
+

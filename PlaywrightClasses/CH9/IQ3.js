@@ -16,4 +16,3 @@ function logtest(name){
 let result = logtest("login");
 console.log(result);
 
-console.log("test")

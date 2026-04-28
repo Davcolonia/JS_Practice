@@ -26,3 +26,5 @@ console.log(returnMesomething);
 function sum(a,b){
     return a+b;
 }
+//funciton types: no return type, no arguments; with return types, no arguments; with argument, no return; with arugument with return
+

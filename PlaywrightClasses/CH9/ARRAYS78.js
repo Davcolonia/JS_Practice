@@ -14,3 +14,9 @@ console.log(doubleIt(10))
 
 const getEnv = () => "staging";
 console.log(getEnv());
+
+const getResult = (score) => {
+    if (score => 70) return "pass";
+    return "fail";
+};
+

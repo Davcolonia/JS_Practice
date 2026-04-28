@@ -5,7 +5,8 @@ function greet(name){
 }
 
 
+sayHi("bob");
 const sayHi = function(name){
-    return `Hi ${name}!`;
+    return `Hi, ${name}!`;
 };
 
